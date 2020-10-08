@@ -1,7 +1,7 @@
 # Pankajan Satkunam
 
 
-<p align="center"><img src="https://github.com/pankajan05/pankajan05/blob/main/IMG-20200926-WA0005%5B1%5D.jpg" alt="Pankajan Satkunam" width="600px" align="centre"></p>
+<p align="center"><img src="https://github.com/pankajan05/pankajan05/blob/main/IMG-20200926-WA0005%5B1%5D.jpg" alt="Pankajan Satkunam" width="400px" align="centre"></p>
 
 
 <p align="center">
