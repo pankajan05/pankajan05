@@ -1,4 +1,4 @@
-# Pankajan Satkunam
+# Pankajan Satkunam <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="200px" align="right">
 
 
 <p align="center"><img src="https://github.com/pankajan05/pankajan05/blob/main/IMG-20200926-WA0005%5B1%5D.jpg" alt="Pankajan Satkunam" width="400px" align="centre"></p>
