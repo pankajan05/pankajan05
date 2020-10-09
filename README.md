@@ -19,4 +19,4 @@
   </a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true) <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
