@@ -18,3 +18,5 @@
     <img src="https://img.shields.io/badge/YouTube-Pankajan05-red?style=for-the-badge&logo=youtube" alt="youtube"/>
   </a>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true)
