@@ -20,3 +20,6 @@
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true) <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
+
+## Languages
+<img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java"> <img src="https://img.shields.io/badge/python-inactive?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/php-9cf?style=for-the-badge&logo=php"> <img src="https://img.shields.io/badge/C-9cf?style=for-the-badge&logo=C"><img src="https://img.shields.io/badge/C++-9cf?style=for-the-badge&logo=cplusplus">
