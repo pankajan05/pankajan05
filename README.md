@@ -1,5 +1,5 @@
 # Pankajan Satkunam 
-### Software Enginneer | Web Developer | DevOps | Programmer
+### Consultant Technology | DevOps | MEAN  | AWS SAA | CSM
 
 <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="200px" align="right">
 
