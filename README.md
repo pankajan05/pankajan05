@@ -1,5 +1,5 @@
 # Pankajan Satkunam 
-### Consultant Technology | DevOps | MEAN  | AWS SAA | CSM
+### Consultant Technology | MEAN/MERN/Django DEV | DevOps | AWS SAA | CSM
 
 <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="200px" align="right">
 
