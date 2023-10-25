@@ -6,9 +6,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajan05" alt="pankajan05" /></a> </p>
 
-
-<img src="https://github.com/pankajan05/pankajan05/blob/main/octocat.png" height="300px" align="right">
-
 <p align="center">
   <a href="https://medium.com/@pankajan05">
     <img src="https://img.shields.io/badge/Medium-pankajan05-green?style=for-the-badge&logo=medium" alt="Medium" />
@@ -23,6 +20,9 @@
     <img src="https://img.shields.io/badge/YouTube-Pankajan05-red?style=for-the-badge&logo=youtube" alt="youtube"/>
   </a>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true) <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
+
 
 
 
