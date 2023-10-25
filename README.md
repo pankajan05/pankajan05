@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td colspan=12 align="justify" >
-      <p>I'm pankajan who has four years of experience in the IT industry and software development. I have helped companies to create software solutions, websites, and web applications. With over four years of experience in software engineering, I have developed a strong foundation in cloud computing, full-stack development, and software architecture.
+      <p>I'm pankajan who has 4+ years of experience in the IT industry and software development. I have helped companies to create software solutions, websites, and web applications. With over four years of experience in software engineering, I have developed a strong foundation in cloud computing, full-stack development, and software architecture.
 
 As a senior software engineer, I worked with MERN(MongoDB/Mysql, ExpressJS, ReactJs, NodeJS), Angular, AngularJS, Django, and Flutter Frameworks. I Have good knowledge of Python, Java, and JavaScript programming languages. I Have worked with AWS cloud to build and maintain cloud-based software solutions, IoT applications, Machine Learning & Artificial Intelligence applications. I enjoy building scalable, high-performance applications that deliver an exceptional user experience.
 
@@ -47,10 +47,6 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
 
 
 <hr>
-<div>
-<span></span>
-<span></span>
-</div>
 
 
 
@@ -66,7 +62,7 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
 
 
 ## Languages
-<img src="https://github.com/pankajan05/pankajan05/blob/main/logo/c.svg" height="30px" style="fill:green">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/csharp.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/java.svg" height="40px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/cplusplus.svg" height="30px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/python.svg" height="30px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/html5.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/css3.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/javascript.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/php.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/typescript.svg" height="30px">
+<img src="https://github.com/pankajan05/pankajan05/blob/main/logo/c.png" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/csharp.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/java.svg" height="40px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/cplusplus.svg" height="30px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/python.svg" height="30px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/html5.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/css3.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/javascript.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/php.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/typescript.svg" height="30px">
 
 ## Framework
 <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/angular.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/django.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/bootstrap.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/laravel.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/codeigniter.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/spring.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/wordpress.svg" height="30px">
