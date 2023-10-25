@@ -19,7 +19,7 @@
         </a>
       </p>
     </td>
-    <td  colspan=4><img src="https://github.com/pankajan05/pankajan05/blob/main/profiles.png" style="height:130px;"></td>
+    <td  colspan=4 align=center><img src="https://github.com/pankajan05/pankajan05/blob/main/profiles.png" style="height:130px;"></td>
   </tr>
   <tr>
     <td colspan=12 align="justify" >
