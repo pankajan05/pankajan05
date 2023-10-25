@@ -32,6 +32,29 @@ I get excited about opportunities where I can create innovative solutions to com
 I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     </td>
   </tr>
+  <tr >
+    <td colspan=4>
+    <h3>Programming Languages</h3>
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/javascript.png" height="30px"> 
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/typescript.png" height="30px">  
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/python.png" height="30px"> 
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/java.png" height="40px">   
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/c.png" height="30px">    
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/cpp.png" height="30px">        
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/html.png" height="30px">    
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/css.png" height="30px">     
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/php.png" height="30px">    
+    </td>
+    <td colspan=8>
+      <h3>Frameworks & Tech</h3>
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/angular.svg" height="30px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/react.svg" height="30px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/boostrap.svg" height="30px">  
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/nodejs.svg" height="30px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/django.svg" height="30px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/jquery.svg" height="30px">
+    </td>
+  </tr>
   <tr>
     <td colspan=12>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajan05" alt="pankajan05" /></a> </p>      
@@ -61,8 +84,4 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
 
 
 
-## Languages
-<img src="https://github.com/pankajan05/pankajan05/blob/main/logo/c.png" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/csharp.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/java.svg" height="40px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/cplusplus.svg" height="30px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/python.svg" height="30px">     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/html5.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/css3.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/javascript.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/php.svg" height="30px">    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/typescript.svg" height="30px">
 
-## Framework
-<img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/angular.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/django.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/bootstrap.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/laravel.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/codeigniter.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/spring.svg" height="30px"> <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/framework/wordpress.svg" height="30px">
