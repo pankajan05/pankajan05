@@ -1,7 +1,7 @@
 <div> </div>
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td colspan=8 align="left" > 
+    <td colspan=8 align="center" > 
       <h1> Pankajan Satkunam </h1>
       <h3> Consultant Technology | MEAN/MERN/Django DEV | DevOps | AWS SAA | CSM </h3>
       <p align="center">
@@ -33,7 +33,7 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     </td>
   </tr>
   <tr >
-    <td colspan=4>
+    <td colspan=3>
     <h3>Programming Languages</h3>
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/javascript.png" height="30px"> 
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/typescript.png" height="30px">  
@@ -45,7 +45,7 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/css.png" height="30px">     
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/php.png" height="30px">    
     </td>
-    <td colspan=8>
+    <td colspan=3>
       <h3>Frameworks & Tech</h3>
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/angular.svg" height="30px"> 
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/react.svg" height="30px"> 
@@ -53,6 +53,27 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/nodejs.svg" height="30px"> 
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/django.svg" height="30px"> 
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/jquery.svg" height="30px">
+    </td>
+    <td colspan=3>
+      <h3>Database</h3>
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/mongodb.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/mysql.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/postgresql.svg" height="50px"> 
+    </td>
+    <td colspan=3>
+      <h3>Tools</h3>
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/git.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/github.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/docker.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/npm.svg" height="50px"> 
+    </td>
+  </tr>
+  <tr>
+    <td colspan=6>
+      ![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true) 
+    </td>
+    <td colspan=6>
+      <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
     </td>
   </tr>
   <tr>
@@ -66,20 +87,12 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
 
 
 
-<hr>
-
-
-<hr>
-
-
-
 <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="200px" align="right">
 
 
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true) <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
 
 
 
