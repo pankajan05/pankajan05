@@ -58,7 +58,7 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     <td colspan=3>
       <h3>Database</h3>
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/mongodb.svg" height="50px"> 
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/mysql.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/mysql.svg" height="50px"> <br>
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/postgresql.svg" height="50px"> 
     </td>
     <td colspan=3>
@@ -67,6 +67,7 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/github.svg" height="50px"> 
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/docker.svg" height="50px"> 
       <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/npm.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/amazon.svg" height="50px"> 
     </td>
   </tr>
   <tr>
