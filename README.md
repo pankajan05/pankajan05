@@ -85,17 +85,4 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
   
 </table>
 
-
-
-
 <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="200px" align="right">
-
-
-
-
-
-
-
-
-
-
