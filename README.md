@@ -39,7 +39,8 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/typescript.png" height="30px">  
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/python.png" height="30px"> 
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/java.png" height="40px">   
-    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/c.png" height="30px">    
+    <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/c.png" height="30px"> 
+      <br>
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/cpp.png" height="30px">        
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/html.png" height="30px">    
     <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/css.png" height="30px">     
@@ -47,12 +48,12 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     </td>
     <td colspan=3>
       <h3>Frameworks & Tech</h3>
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/angular.svg" height="30px"> 
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/react.svg" height="30px"> 
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/boostrap.svg" height="30px">  
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/nodejs.svg" height="30px"> 
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/django.svg" height="30px"> 
-      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/jquery.svg" height="30px">
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/angular.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/react.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/boostrap.svg" height="50px">  <br>
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/nodejs.svg" height="50px"> 
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/django.svg" height="50px">
+      <img src="https://github.com/pankajan05/pankajan05/blob/main/logo/jquery.svg" height="50px">
     </td>
     <td colspan=3>
       <h3>Database</h3>
