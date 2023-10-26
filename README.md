@@ -70,11 +70,16 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
     </td>
   </tr>
   <tr>
-    <td colspan=6>
-      ![Github stats](https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&hide_border=true) 
+    <td colspan=2>
+      <img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="100px" align="left"> 
     </td>
-    <td colspan=6>
-      <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="300px" align="right">
+    <td colspan=7>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pankajan05&show_icons=true&theme=transparent" alt="Pankajan's GitHub stats">
+    </div>
+    </td>
+    <td colspan=3>
+      <img src="https://media.giphy.com/media/Y0uU6oq3hJ1Gu2Er1q/giphy.gif" height="100px" align="right">
     </td>
   </tr>
   <tr>
@@ -85,4 +90,4 @@ I love connecting with new people. You can reach me at pankajan05@gmail.com.</p>
   
 </table>
 
-<img src="https://media.giphy.com/media/SqeaJvuHTby1fW2wdL/giphy.gif" height="200px" align="right">
+
